@@ -1,0 +1,41 @@
+header{
+    font-family: 'Fredoka One', cursive;
+    background-color: rgba(0, 0, 0, 0.86);
+}
+
+h1,h3{
+    font-family: 'Oswald', sans-serif;
+    font-size: 40px;
+    font-weight: 100;
+}
+
+h5{
+    font-family: 'Oswald', sans-serif;
+    font-size: 50px;
+    font-weight: 100;
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 2px;
+}
+
+.lukinhas{
+    background-color:burlywood;
+}
+
+.headline{
+    visibility: hidden;
+}
+
+body{
+    background-color:rgb(66, 34, 13);
+}
+
+.carousel-slide{
+    margin: 0;
+}
+
+footer{
+    background-color: rgba(0, 0, 0, 0.93);
+    color: whitesmoke;
+    width: 100%;
+    height: 40vh;
+}
